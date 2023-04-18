@@ -20,9 +20,9 @@ Cevaplar
 [2,6,16,22,18,27] (n-2) 6 ile 27 yer değiştirdi.
 [2,6,16,18,22,27] (n-3) 22 ile 18 yer değiştirdi.
 [2,6,16,18,22,27] 1 son hali bu olur.
-#2.Sorunun Cevabı: n+(n-1)+(n-2)+(n-3)+...+1 = n.(n+1)/2 = n üssü 2 +n/2. Baskın ifade n² dir. Big-O =(n²)
-#3.Sorunun Cevabı: Sıralama işleminin sonunda 18 sayısı ortada olduğu için cevap Average case'dir.
-#4.Sorunun Cevabı:
+# 2.Sorunun Cevabı: n+(n-1)+(n-2)+(n-3)+...+1 = n.(n+1)/2 = n üssü 2 +n/2. Baskın ifade n² dir. Big-O =(n²)
+# 3.Sorunun Cevabı: Sıralama işleminin sonunda 18 sayısı ortada olduğu için cevap Average case'dir.
+# 4.Sorunun Cevabı:
 1.Adım: [7,3,5,8,2,9,4,15,6]
 2.Adım: [2,3,5,8,7,9,4,15,6] 2 ile 7 yer değiştirdi.
 3.Adım: [2,3,4,8,7,9,5,15,6] 4 ile 5 yer değiştirdi.
